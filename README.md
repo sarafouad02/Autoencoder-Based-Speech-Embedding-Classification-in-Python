@@ -1,7 +1,5 @@
 # Autoencoder-Based-Speech-Embedding-Classification-in-Python
 
-# ReducedMNIST Audio: Data Augmentation & Autoencoder Pipelines
-
 ## Overview
 
 This project explores representation learning and classification on spoken-digit spectrograms using two strategies:
